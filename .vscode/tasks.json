@@ -1,0 +1,11 @@
+{
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "build",
+            "path": "Employees/",
+            "group": "build",
+            "label": "npm: build - Employees"
+        }
+    ]
+}
